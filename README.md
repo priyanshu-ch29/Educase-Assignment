@@ -91,5 +91,3 @@ Given more time, I would implement several enhancements:
 6. **Performance Monitoring**: Integrate tools like Sentry or Firebase Performance Monitoring to track and optimize app health.
 
 ---
-
-Created by [Your Name/Github Handle]
